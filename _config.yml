@@ -68,10 +68,14 @@ index_generator:
 default_category: Programming
 category_map:
   Programming: top1
-  DevOps: top2
-  Architecture: top3
-  Tutorials: top4
 tag_map:
+  blog: blog
+  python: python
+  javascript: javascript
+  linux: linux
+  docker: docker
+  nginx: nginx
+  database: database
 
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
