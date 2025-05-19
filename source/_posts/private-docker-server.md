@@ -9,7 +9,7 @@ date: 2017-03-27 15:40:09
 ---
 
 # 搭建docker私有服务器
-公司: you ip
+公司: youripOrDomain
 系统: centos 7 1611版本
 python: 系统自带2.7.5
 docker-registry功能增强: [Harbor](http://1.chaoxu.sinaapp.com/archives/3969)
@@ -149,7 +149,7 @@ bash /opt/docker/start.sh
 
 ## 测试
 web访问
-[http://you ip](http://you ip)
+[http://youripOrDomain](http://youripOrDomain)
 docker-registry server
 
 
@@ -171,12 +171,12 @@ localhost/nginx              latest              2dc68ff797db        11 months a
 
 ### 打上自己的tag
 
-`docker tag 2dc6 you ip/nginx`
+`docker tag 2dc6 youripOrDomain/nginx`
 ### 上传
-`docker push you ip/nginx`
+`docker push youripOrDomain/nginx`
 
 ### 检查
-[http://you ip/v1/search](http://you ip/v1/search)
+[http://youripOrDomain/v1/search](http://youripOrDomain/v1/search)
 
 ### 其它机器上使用
-docker pull you ip/nginx
+docker pull youripOrDomain/nginx
