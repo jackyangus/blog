@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: QOOEO Blog
+subtitle: 'Jack Yang Tech Blog'
+description: 'A personal tech blog about programming and technology'
+keywords: tech, programming, blog
+author: Jack Yang
 language: en
 timezone: ''
 
@@ -65,8 +65,12 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: Programming
 category_map:
+  Programming: top1
+  DevOps: top2
+  Architecture: top3
+  Tutorials: top4
 tag_map:
 
 # Metadata elements
@@ -96,7 +100,25 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-jsimple
+
+# Feed Generator
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+
+# Search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

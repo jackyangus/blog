@@ -1,5 +1,7 @@
 ---
 title: yuncai-dev-doc
+
+categories: Programming
 tags:
   - oracle
 abbrlink: 42176

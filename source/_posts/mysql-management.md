@@ -1,5 +1,7 @@
 ---
 title: mysql management
+
+categories: Programming
 tags:
   - mysql
 toc: true

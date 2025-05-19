@@ -1,5 +1,7 @@
 ---
 title: centos 6.5 install
+
+categories: Programming
 tags:
   - centos
   - linux

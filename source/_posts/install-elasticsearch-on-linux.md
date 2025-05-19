@@ -1,5 +1,7 @@
 ---
 title: install elasticsearch on linux
+
+categories: Programming
 tags:
   - elasticsearch
   - linux

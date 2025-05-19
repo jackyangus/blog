@@ -1,5 +1,7 @@
 ---
 title: luigi install
+
+categories: Programming
 tags:
   - luigi
   - 监控

@@ -1,5 +1,7 @@
 ---
 title: oracle-install-linux
+
+categories: Programming
 tags:
   - oracle
 abbrlink: 10524

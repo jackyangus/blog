@@ -1,5 +1,7 @@
 ---
 title: software
+
+categories: Programming
 tags:
   - 软件
 abbrlink: 7119

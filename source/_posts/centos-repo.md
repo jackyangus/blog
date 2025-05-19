@@ -1,5 +1,7 @@
 ---
 title: centos repo
+
+categories: Programming
 tags:
   - centos
   - yum

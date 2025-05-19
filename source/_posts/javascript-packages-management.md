@@ -1,5 +1,7 @@
 ---
 title: javascript packages management
+
+categories: Programming
 tags:
   - javascript
   - npm

@@ -1,5 +1,7 @@
 ---
 title: server_install
+
+categories: Programming
 tags:
   - 服务器
 abbrlink: 55114

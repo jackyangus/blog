@@ -1,5 +1,7 @@
 ---
 title: linux-common-comand
+
+categories: Programming
 tags:
   - linux常用命令
 toc: true

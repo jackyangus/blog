@@ -1,5 +1,7 @@
 ---
 title: cabot install
+
+categories: Programming
 tags:
   - cabot
   - 监控

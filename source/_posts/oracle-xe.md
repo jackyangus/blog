@@ -1,5 +1,7 @@
 ---
 title: oracle_xe
+
+categories: Programming
 tags:
   - oracle
 abbrlink: 42570

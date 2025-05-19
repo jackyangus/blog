@@ -1,5 +1,7 @@
 ---
 title: private docker server
+
+categories: Programming
 tags:
   - docker
   - registry

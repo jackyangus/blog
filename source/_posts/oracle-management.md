@@ -1,5 +1,7 @@
 ---
 title: oracle management
+
+categories: Programming
 tags:
   - oracle
 toc: true

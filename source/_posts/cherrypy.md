@@ -1,5 +1,7 @@
 ---
 title: cherrypy
+
+categories: Programming
 tags:
   - python
   - cherrypy

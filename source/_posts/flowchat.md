@@ -1,5 +1,7 @@
 ---
 title: flowchat
+
+categories: Programming
 tags:
   - 公式
   - 时序图

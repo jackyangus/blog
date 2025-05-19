@@ -1,5 +1,7 @@
 ---
 title: linux install nginx
+
+categories: Programming
 tags:
   - nginx
   - linux

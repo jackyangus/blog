@@ -1,5 +1,7 @@
 ---
 title: pydev template
+
+categories: Programming
 tags:
   - python
   - pydev

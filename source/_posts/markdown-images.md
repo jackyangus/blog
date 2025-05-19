@@ -1,6 +1,7 @@
 ---
 title: markdown-images
 abbrlink: 10385
+categories: Programming
 date: 2016-07-14 22:36:46
 tags:
 ---

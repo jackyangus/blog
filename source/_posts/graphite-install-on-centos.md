@@ -1,5 +1,7 @@
 ---
 title: graphite install on centos
+
+categories: Programming
 tags:
   - graphite
   - 监控

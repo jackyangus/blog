@@ -3,6 +3,7 @@ title: math and uml
 mathjax: true
 jumly: true
 abbrlink: 44326
+categories: Programming
 date: 2016-07-06 00:05:45
 tags:
 ---
