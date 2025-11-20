@@ -15,6 +15,37 @@ npm install -g @openai/codex
 npm install -g @upstash/context7-mcp
 ```
 
+## [serena](https://github.com/oraios/serena)
+
+## [UV](https://docs.astral.sh/uv/getting-started/installation/#standalone-installer)
+
+```bash
+brew install uv
+uvx --from git+https://github.com/oraios/serena serena start-mcp-server
+```
+
+## [oh-my-zsh](https://jumping-code.com/2024/04/30/mac-terminal-settings/#2-install-oh-my-zsh)
+
+```bash
+brew install zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+# In ~/.zshrc
+
+plugins=(git zsh-autosuggestions zsh-syntax-highlighting zsh-z)
+```
+
+## [rust](https://rust-lang.org/learn/get-started/)
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+## [antigravity](https://antigravity.google/)
+
+## [AI studio](https://aistudio.google.com/build)
+
 ## ~/.zshrc
 
 ```bash
